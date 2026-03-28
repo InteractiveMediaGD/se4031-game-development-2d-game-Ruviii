@@ -1,0 +1,6890 @@
+fileFormatVersion: 2
+guid: def0faee89c356e49bd950c18bf5bcab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4237400203377600825
+    second: char_dragon_shadow_02_0
+  - first:
+      213: 8987721032884225064
+    second: char_dragon_shadow_02_1
+  - first:
+      213: -8248386090597425212
+    second: char_dragon_shadow_02_2
+  - first:
+      213: 1016432158032586415
+    second: char_dragon_shadow_02_3
+  - first:
+      213: -513879118400387421
+    second: char_dragon_shadow_02_4
+  - first:
+      213: 4482943893517827106
+    second: char_dragon_shadow_02_5
+  - first:
+      213: 147777356317847658
+    second: char_dragon_shadow_02_6
+  - first:
+      213: -1338145333513143756
+    second: char_dragon_shadow_02_7
+  - first:
+      213: -3788341619567877794
+    second: char_dragon_shadow_02_8
+  - first:
+      213: 1530350691763258091
+    second: char_dragon_shadow_02_9
+  - first:
+      213: 1287064202798983145
+    second: char_dragon_shadow_02_10
+  - first:
+      213: 9078946738123710622
+    second: char_dragon_shadow_02_11
+  - first:
+      213: -8747114694260213439
+    second: char_dragon_shadow_02_12
+  - first:
+      213: -548687421978169406
+    second: char_dragon_shadow_02_13
+  - first:
+      213: -4796578474839451665
+    second: char_dragon_shadow_02_14
+  - first:
+      213: 2255393583966068188
+    second: char_dragon_shadow_02_15
+  - first:
+      213: -6226345565282400817
+    second: char_dragon_shadow_02_16
+  - first:
+      213: 4268482371832599846
+    second: char_dragon_shadow_02_17
+  - first:
+      213: 5583973228766497044
+    second: char_dragon_shadow_02_18
+  - first:
+      213: -7067086404514146280
+    second: char_dragon_shadow_02_19
+  - first:
+      213: -6770046899481531017
+    second: char_dragon_shadow_02_20
+  - first:
+      213: -4764802997593761269
+    second: char_dragon_shadow_02_21
+  - first:
+      213: -672184214126567095
+    second: char_dragon_shadow_02_22
+  - first:
+      213: -5860737757767542933
+    second: char_dragon_shadow_02_23
+  - first:
+      213: -1346959791550988370
+    second: char_dragon_shadow_02_24
+  - first:
+      213: -7303926321495994454
+    second: char_dragon_shadow_02_25
+  - first:
+      213: 7064857188497287637
+    second: char_dragon_shadow_02_26
+  - first:
+      213: -4636779354638867049
+    second: char_dragon_shadow_02_27
+  - first:
+      213: -3051432076884072211
+    second: char_dragon_shadow_02_28
+  - first:
+      213: 2279197958424527139
+    second: char_dragon_shadow_02_29
+  - first:
+      213: -6147778324288543291
+    second: char_dragon_shadow_02_30
+  - first:
+      213: 6925693936576338266
+    second: char_dragon_shadow_02_31
+  - first:
+      213: -5459781082101379072
+    second: char_dragon_shadow_02_32
+  - first:
+      213: 7886998955181805144
+    second: char_dragon_shadow_02_33
+  - first:
+      213: -4693732210149318534
+    second: char_dragon_shadow_02_34
+  - first:
+      213: -3471701113081168222
+    second: char_dragon_shadow_02_35
+  - first:
+      213: 7044529369763649193
+    second: char_dragon_shadow_02_36
+  - first:
+      213: -2600929811040659583
+    second: char_dragon_shadow_02_37
+  - first:
+      213: -5993623204883751506
+    second: char_dragon_shadow_02_38
+  - first:
+      213: 228174374459971337
+    second: char_dragon_shadow_02_39
+  - first:
+      213: -3311261252389668829
+    second: char_dragon_shadow_02_40
+  - first:
+      213: -8348721140271301068
+    second: char_dragon_shadow_02_41
+  - first:
+      213: 4728403040022379516
+    second: char_dragon_shadow_02_42
+  - first:
+      213: -301466067114867851
+    second: char_dragon_shadow_02_43
+  - first:
+      213: 4901045448461163812
+    second: char_dragon_shadow_02_44
+  - first:
+      213: 469026383590039086
+    second: char_dragon_shadow_02_45
+  - first:
+      213: 5478232091592861288
+    second: char_dragon_shadow_02_46
+  - first:
+      213: -3235479980385608353
+    second: char_dragon_shadow_02_47
+  - first:
+      213: -7371725452481821461
+    second: char_dragon_shadow_02_48
+  - first:
+      213: -3843067043595177329
+    second: char_dragon_shadow_02_49
+  - first:
+      213: 2443106076072735525
+    second: char_dragon_shadow_02_50
+  - first:
+      213: -6860323225289487485
+    second: char_dragon_shadow_02_51
+  - first:
+      213: 4315404756563309231
+    second: char_dragon_shadow_02_52
+  - first:
+      213: -9730800690588233
+    second: char_dragon_shadow_02_53
+  - first:
+      213: 2785498683869642229
+    second: char_dragon_shadow_02_54
+  - first:
+      213: -3625298090502189560
+    second: char_dragon_shadow_02_55
+  - first:
+      213: -159130741670338093
+    second: char_dragon_shadow_02_56
+  - first:
+      213: 4745862745155856232
+    second: char_dragon_shadow_02_57
+  - first:
+      213: 382264206485811217
+    second: char_dragon_shadow_02_58
+  - first:
+      213: 2457495658477433371
+    second: char_dragon_shadow_02_59
+  - first:
+      213: 5343364008670380142
+    second: char_dragon_shadow_02_60
+  - first:
+      213: -3593482312989424664
+    second: char_dragon_shadow_02_61
+  - first:
+      213: -7249951486614105090
+    second: char_dragon_shadow_02_62
+  - first:
+      213: -6029485727344572511
+    second: char_dragon_shadow_02_63
+  - first:
+      213: -2889123983550594352
+    second: char_dragon_shadow_02_64
+  - first:
+      213: -2581731556686432680
+    second: char_dragon_shadow_02_65
+  - first:
+      213: -8851295762526441350
+    second: char_dragon_shadow_02_66
+  - first:
+      213: -7582175374310310222
+    second: char_dragon_shadow_02_67
+  - first:
+      213: -7772410768022774369
+    second: char_dragon_shadow_02_68
+  - first:
+      213: -2079322518788778945
+    second: char_dragon_shadow_02_69
+  - first:
+      213: -46340911217914271
+    second: char_dragon_shadow_02_70
+  - first:
+      213: 6308443150454123642
+    second: char_dragon_shadow_02_71
+  - first:
+      213: 1931517354744865419
+    second: char_dragon_shadow_02_72
+  - first:
+      213: -4030643652797122073
+    second: char_dragon_shadow_02_73
+  - first:
+      213: 954211390002564114
+    second: char_dragon_shadow_02_74
+  - first:
+      213: -6345202667459714350
+    second: char_dragon_shadow_02_75
+  - first:
+      213: -6256159980781615198
+    second: char_dragon_shadow_02_76
+  - first:
+      213: -3104722795200587867
+    second: char_dragon_shadow_02_77
+  - first:
+      213: 6573179729118544017
+    second: char_dragon_shadow_02_78
+  - first:
+      213: 9009862930087492452
+    second: char_dragon_shadow_02_79
+  - first:
+      213: 8551651776015769734
+    second: char_dragon_shadow_02_80
+  - first:
+      213: 9084267191565440733
+    second: char_dragon_shadow_02_81
+  - first:
+      213: -7759067688159885145
+    second: char_dragon_shadow_02_82
+  - first:
+      213: -4839228922676578281
+    second: char_dragon_shadow_02_83
+  - first:
+      213: -3404185692002597886
+    second: char_dragon_shadow_02_84
+  - first:
+      213: -535380256357281265
+    second: char_dragon_shadow_02_85
+  - first:
+      213: -8261192193040372531
+    second: char_dragon_shadow_02_86
+  - first:
+      213: 7112112390062539324
+    second: char_dragon_shadow_02_87
+  - first:
+      213: 5642419948608357636
+    second: char_dragon_shadow_02_88
+  - first:
+      213: 4522873899688058272
+    second: char_dragon_shadow_02_89
+  - first:
+      213: 3838534425347430740
+    second: char_dragon_shadow_02_90
+  - first:
+      213: 2664670453945026564
+    second: char_dragon_shadow_02_91
+  - first:
+      213: -6357018735062121067
+    second: char_dragon_shadow_02_92
+  - first:
+      213: -811566183775465425
+    second: char_dragon_shadow_02_93
+  - first:
+      213: 1306674476661777226
+    second: char_dragon_shadow_02_94
+  - first:
+      213: -3466858227174045481
+    second: char_dragon_shadow_02_95
+  - first:
+      213: 5784153095255360332
+    second: char_dragon_shadow_02_96
+  - first:
+      213: -364075890056218071
+    second: char_dragon_shadow_02_97
+  - first:
+      213: -719203390143101224
+    second: char_dragon_shadow_02_98
+  - first:
+      213: 2747197511177704826
+    second: char_dragon_shadow_02_99
+  - first:
+      213: -3607151987901954406
+    second: char_dragon_shadow_02_100
+  - first:
+      213: -6125070385108756938
+    second: char_dragon_shadow_02_101
+  - first:
+      213: 5403369055662602317
+    second: char_dragon_shadow_02_102
+  - first:
+      213: 3052831211375246688
+    second: char_dragon_shadow_02_103
+  - first:
+      213: 4220337744796883204
+    second: char_dragon_shadow_02_104
+  - first:
+      213: 7656514406245937893
+    second: char_dragon_shadow_02_105
+  - first:
+      213: 7187372245641219607
+    second: char_dragon_shadow_02_106
+  - first:
+      213: 6325952900811752155
+    second: char_dragon_shadow_02_107
+  - first:
+      213: -6019975389384155478
+    second: char_dragon_shadow_02_108
+  - first:
+      213: -4040303523820201555
+    second: char_dragon_shadow_02_109
+  - first:
+      213: 8489912791061240187
+    second: char_dragon_shadow_02_110
+  - first:
+      213: -7970871299262596473
+    second: char_dragon_shadow_02_111
+  - first:
+      213: 1337995509989491607
+    second: char_dragon_shadow_02_112
+  - first:
+      213: -5562362808292296536
+    second: char_dragon_shadow_02_113
+  - first:
+      213: 5223288169902294851
+    second: char_dragon_shadow_02_114
+  - first:
+      213: -1652434405168061042
+    second: char_dragon_shadow_02_115
+  - first:
+      213: 3821974026520525357
+    second: char_dragon_shadow_02_116
+  - first:
+      213: -5871521889708825635
+    second: char_dragon_shadow_02_117
+  - first:
+      213: 1041370725469125630
+    second: char_dragon_shadow_02_118
+  - first:
+      213: -7162999504052819940
+    second: char_dragon_shadow_02_119
+  - first:
+      213: 1243051465903328226
+    second: char_dragon_shadow_02_120
+  - first:
+      213: 4663546413644264586
+    second: char_dragon_shadow_02_121
+  - first:
+      213: -3602966847280551817
+    second: char_dragon_shadow_02_122
+  - first:
+      213: 7280193806101063438
+    second: char_dragon_shadow_02_123
+  - first:
+      213: -7054446777022704761
+    second: char_dragon_shadow_02_124
+  - first:
+      213: 1761705294534384985
+    second: char_dragon_shadow_02_125
+  - first:
+      213: 5697217132085035299
+    second: char_dragon_shadow_02_126
+  - first:
+      213: 2319616391256450669
+    second: char_dragon_shadow_02_127
+  - first:
+      213: 824993792970674789
+    second: char_dragon_shadow_02_128
+  - first:
+      213: 2444835404349559421
+    second: char_dragon_shadow_02_129
+  - first:
+      213: 1652722454442683153
+    second: char_dragon_shadow_02_130
+  - first:
+      213: 5611540145629935657
+    second: char_dragon_shadow_02_131
+  - first:
+      213: -8252184525094170908
+    second: char_dragon_shadow_02_132
+  - first:
+      213: -589899540303323134
+    second: char_dragon_shadow_02_133
+  - first:
+      213: 1819404750545671861
+    second: char_dragon_shadow_02_134
+  - first:
+      213: -3422117222569535361
+    second: char_dragon_shadow_02_135
+  - first:
+      213: -4037186050745931265
+    second: char_dragon_shadow_02_136
+  - first:
+      213: 5910348995903815088
+    second: char_dragon_shadow_02_137
+  - first:
+      213: 1041665391830362603
+    second: char_dragon_shadow_02_138
+  - first:
+      213: 3950832795422074719
+    second: char_dragon_shadow_02_139
+  - first:
+      213: -4073543767260803934
+    second: char_dragon_shadow_02_140
+  - first:
+      213: -5218586784306388494
+    second: char_dragon_shadow_02_141
+  - first:
+      213: -1457583557861974605
+    second: char_dragon_shadow_02_142
+  - first:
+      213: -1151847602271547434
+    second: char_dragon_shadow_02_143
+  - first:
+      213: -4125516273081387582
+    second: char_dragon_shadow_02_144
+  - first:
+      213: 5546423590026735038
+    second: char_dragon_shadow_02_145
+  - first:
+      213: -6628546667878924804
+    second: char_dragon_shadow_02_146
+  - first:
+      213: -4802240837227184445
+    second: char_dragon_shadow_02_147
+  - first:
+      213: -1121581710064317330
+    second: char_dragon_shadow_02_148
+  - first:
+      213: -8356591281702484962
+    second: char_dragon_shadow_02_149
+  - first:
+      213: -512750734044160179
+    second: char_dragon_shadow_02_150
+  - first:
+      213: -3529157950189688248
+    second: char_dragon_shadow_02_151
+  - first:
+      213: -8819472249673903187
+    second: char_dragon_shadow_02_152
+  - first:
+      213: -6850658016182924957
+    second: char_dragon_shadow_02_153
+  - first:
+      213: -5704791800920390409
+    second: char_dragon_shadow_02_154
+  - first:
+      213: 4376125868852826014
+    second: char_dragon_shadow_02_155
+  - first:
+      213: -6781636303933042238
+    second: char_dragon_shadow_02_156
+  - first:
+      213: 6910415008854270148
+    second: char_dragon_shadow_02_157
+  - first:
+      213: -6704541128594817010
+    second: char_dragon_shadow_02_158
+  - first:
+      213: 998117018277363972
+    second: char_dragon_shadow_02_159
+  - first:
+      213: 8376217518197886461
+    second: char_dragon_shadow_02_160
+  - first:
+      213: -3034354769127153248
+    second: char_dragon_shadow_02_161
+  - first:
+      213: 5604145126215142017
+    second: char_dragon_shadow_02_162
+  - first:
+      213: -7569133994038458000
+    second: char_dragon_shadow_02_163
+  - first:
+      213: 3651195898130717009
+    second: char_dragon_shadow_02_164
+  - first:
+      213: -7700676113030839014
+    second: char_dragon_shadow_02_165
+  - first:
+      213: 4712835847712404227
+    second: char_dragon_shadow_02_166
+  - first:
+      213: 9195140223301537629
+    second: char_dragon_shadow_02_167
+  - first:
+      213: 1752624687755365200
+    second: char_dragon_shadow_02_168
+  - first:
+      213: -1763213499394155151
+    second: char_dragon_shadow_02_169
+  - first:
+      213: 8814492126692270726
+    second: char_dragon_shadow_02_170
+  - first:
+      213: -3494614983253826610
+    second: char_dragon_shadow_02_171
+  - first:
+      213: 422675505679900938
+    second: char_dragon_shadow_02_172
+  - first:
+      213: 177834235659642283
+    second: char_dragon_shadow_02_173
+  - first:
+      213: -4439001091772412280
+    second: char_dragon_shadow_02_174
+  - first:
+      213: -664178456858367622
+    second: char_dragon_shadow_02_175
+  - first:
+      213: -4731804454341301525
+    second: char_dragon_shadow_02_176
+  - first:
+      213: -5246411351941660202
+    second: char_dragon_shadow_02_177
+  - first:
+      213: 8041791018229423765
+    second: char_dragon_shadow_02_178
+  - first:
+      213: 3973098342673184299
+    second: char_dragon_shadow_02_179
+  - first:
+      213: -4715885764114235467
+    second: char_dragon_shadow_02_180
+  - first:
+      213: 4443308938354267666
+    second: char_dragon_shadow_02_181
+  - first:
+      213: -7946015413257259715
+    second: char_dragon_shadow_02_182
+  - first:
+      213: -3209393216512921306
+    second: char_dragon_shadow_02_183
+  - first:
+      213: -7663565313390695787
+    second: char_dragon_shadow_02_184
+  - first:
+      213: -5048606325538413083
+    second: char_dragon_shadow_02_185
+  - first:
+      213: -7909513893477247353
+    second: char_dragon_shadow_02_186
+  - first:
+      213: -8943186984791308428
+    second: char_dragon_shadow_02_187
+  - first:
+      213: 4691987056699700855
+    second: char_dragon_shadow_02_188
+  - first:
+      213: 3413129311520689256
+    second: char_dragon_shadow_02_189
+  - first:
+      213: 7107653298131451895
+    second: char_dragon_shadow_02_190
+  - first:
+      213: 5647541705656561281
+    second: char_dragon_shadow_02_191
+  - first:
+      213: 1556770994831649168
+    second: char_dragon_shadow_02_192
+  - first:
+      213: -4797729874120025523
+    second: char_dragon_shadow_02_193
+  - first:
+      213: 3857150785394077329
+    second: char_dragon_shadow_02_194
+  - first:
+      213: 4470760979197229931
+    second: char_dragon_shadow_02_195
+  - first:
+      213: -3856777818143339322
+    second: char_dragon_shadow_02_196
+  - first:
+      213: -8405234898215528792
+    second: char_dragon_shadow_02_197
+  - first:
+      213: -4712808867387645300
+    second: char_dragon_shadow_02_198
+  - first:
+      213: -2458266702322064897
+    second: char_dragon_shadow_02_199
+  - first:
+      213: 4025485887619541921
+    second: char_dragon_shadow_02_200
+  - first:
+      213: 294343677578436914
+    second: char_dragon_shadow_02_201
+  - first:
+      213: 5096668024671857608
+    second: char_dragon_shadow_02_202
+  - first:
+      213: -6100504809921609390
+    second: char_dragon_shadow_02_203
+  - first:
+      213: -5736737691178633408
+    second: char_dragon_shadow_02_204
+  - first:
+      213: 8348882921607885808
+    second: char_dragon_shadow_02_205
+  - first:
+      213: 4553121642262364886
+    second: char_dragon_shadow_02_206
+  - first:
+      213: 862298117374285872
+    second: char_dragon_shadow_02_207
+  - first:
+      213: 968088412365386367
+    second: char_dragon_shadow_02_208
+  - first:
+      213: -8123002930023118059
+    second: char_dragon_shadow_02_209
+  - first:
+      213: 6618633536055877738
+    second: char_dragon_shadow_02_210
+  - first:
+      213: -3308444902759192883
+    second: char_dragon_shadow_02_211
+  - first:
+      213: -5884194948410139743
+    second: char_dragon_shadow_02_212
+  - first:
+      213: -6182134975715404802
+    second: char_dragon_shadow_02_213
+  - first:
+      213: -6343350557934656509
+    second: char_dragon_shadow_02_214
+  - first:
+      213: 314495752129233576
+    second: char_dragon_shadow_02_215
+  - first:
+      213: -7063432895571922601
+    second: char_dragon_shadow_02_216
+  - first:
+      213: -1853622468517312765
+    second: char_dragon_shadow_02_217
+  - first:
+      213: -3837993348404003911
+    second: char_dragon_shadow_02_218
+  - first:
+      213: 251198402616116069
+    second: char_dragon_shadow_02_219
+  - first:
+      213: -361343515249556526
+    second: char_dragon_shadow_02_220
+  - first:
+      213: 2612289952633753542
+    second: char_dragon_shadow_02_221
+  - first:
+      213: -9220505602558577891
+    second: char_dragon_shadow_02_222
+  - first:
+      213: 7901299283017305147
+    second: char_dragon_shadow_02_223
+  - first:
+      213: -8152602159948867565
+    second: char_dragon_shadow_02_224
+  - first:
+      213: 2117512793302764814
+    second: char_dragon_shadow_02_225
+  - first:
+      213: 6724008023351218007
+    second: char_dragon_shadow_02_226
+  - first:
+      213: -796055449465911263
+    second: char_dragon_shadow_02_227
+  - first:
+      213: 7399132289726398753
+    second: char_dragon_shadow_02_228
+  - first:
+      213: 1365382848762055526
+    second: char_dragon_shadow_02_229
+  - first:
+      213: -3614522085686665667
+    second: char_dragon_shadow_02_230
+  - first:
+      213: 6206884877845979649
+    second: char_dragon_shadow_02_231
+  - first:
+      213: -2595656376034783905
+    second: char_dragon_shadow_02_232
+  - first:
+      213: -3502884155226365814
+    second: char_dragon_shadow_02_233
+  - first:
+      213: -3485054449471125178
+    second: char_dragon_shadow_02_234
+  - first:
+      213: 4116049032760605566
+    second: char_dragon_shadow_02_235
+  - first:
+      213: 6445766521814026376
+    second: char_dragon_shadow_02_236
+  - first:
+      213: 2950321769183274060
+    second: char_dragon_shadow_02_237
+  - first:
+      213: -7002430126680255531
+    second: char_dragon_shadow_02_238
+  - first:
+      213: 490207120058040539
+    second: char_dragon_shadow_02_239
+  - first:
+      213: 3021469696994668892
+    second: char_dragon_shadow_02_240
+  - first:
+      213: -7594464539453682945
+    second: char_dragon_shadow_02_241
+  - first:
+      213: -724105758141068785
+    second: char_dragon_shadow_02_242
+  - first:
+      213: 7341595076098521038
+    second: char_dragon_shadow_02_243
+  - first:
+      213: 4147012206844488769
+    second: char_dragon_shadow_02_244
+  - first:
+      213: -7524188915376289652
+    second: char_dragon_shadow_02_245
+  - first:
+      213: -243054234946065651
+    second: char_dragon_shadow_02_246
+  - first:
+      213: 8047699443982690299
+    second: char_dragon_shadow_02_247
+  - first:
+      213: -6313691823966031161
+    second: char_dragon_shadow_02_248
+  - first:
+      213: -2557614323077846149
+    second: char_dragon_shadow_02_249
+  - first:
+      213: 6165321817587273648
+    second: char_dragon_shadow_02_250
+  - first:
+      213: -7891846573417757166
+    second: char_dragon_shadow_02_251
+  - first:
+      213: -421208192910233390
+    second: char_dragon_shadow_02_252
+  - first:
+      213: -6744909736429993012
+    second: char_dragon_shadow_02_253
+  - first:
+      213: 4891546216142342652
+    second: char_dragon_shadow_02_254
+  - first:
+      213: 200657729494999785
+    second: char_dragon_shadow_02_255
+  - first:
+      213: 6415650450316096756
+    second: char_dragon_shadow_02_256
+  - first:
+      213: -9106323161491701349
+    second: char_dragon_shadow_02_257
+  - first:
+      213: -1786752491197951979
+    second: char_dragon_shadow_02_258
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_0
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 5180
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9396d75c8054eca30800000000000000
+      internalID: 4237400203377600825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_1
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 5180
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8240f5119accabc70800000000000000
+      internalID: 8987721032884225064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_2
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 5180
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfdaab6d88d78d80800000000000000
+      internalID: -8248386090597425212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_3
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 5163
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e0d599a71b1e00800000000000000
+      internalID: 1016432158032586415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_4
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 5154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6014a1aa55ed8f0800000000000000
+      internalID: -513879118400387421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_5
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 5163
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cf22138bd963e30800000000000000
+      internalID: 4482943893517827106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_6
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 5154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60fb2df8b20d0200800000000000000
+      internalID: 147777356317847658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_7
+      rect:
+        serializedVersion: 2
+        x: 6184
+        y: 5163
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a3a12b8e3fd6de0800000000000000
+      internalID: -1338145333513143756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_8
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 5154
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5124d55e5b1d6bc0800000000000000
+      internalID: -3788341619567877794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_9
+      rect:
+        serializedVersion: 2
+        x: 7411
+        y: 5154
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2825498d5ec3510800000000000000
+      internalID: 1530350691763258091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_10
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 5120
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e764f2c2129cd110800000000000000
+      internalID: 1287064202798983145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_11
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 5129
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e902e8cb4f5eefd70800000000000000
+      internalID: 9078946738123710622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_12
+      rect:
+        serializedVersion: 2
+        x: 3866
+        y: 5112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149350f97810c9680800000000000000
+      internalID: -8747114694260213439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_13
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 5103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf244062bba268f0800000000000000
+      internalID: -548687421978169406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_14
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 5112
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7d8ed5a412f6db0800000000000000
+      internalID: -4796578474839451665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_15
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 5112
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd1ef8d384cc4f10800000000000000
+      internalID: 2255393583966068188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_16
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 5112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5838c62b39799a0800000000000000
+      internalID: -6226345565282400817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_17
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 5094
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625591f0a12bc3b30800000000000000
+      internalID: 4268482371832599846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_18
+      rect:
+        serializedVersion: 2
+        x: 5557
+        y: 5086
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4190beff0124e7d40800000000000000
+      internalID: 5583973228766497044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_19
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 5094
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81811fdab5aaced90800000000000000
+      internalID: -7067086404514146280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_20
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 5086
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d2ba3d636fb02a0800000000000000
+      internalID: -6770046899481531017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_21
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 5077
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a15bf2be400edb0800000000000000
+      internalID: -4764802997593761269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_22
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 5060
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9416c55c40ceba6f0800000000000000
+      internalID: -672184214126567095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_23
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 5060
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67db829f0a7aaea0800000000000000
+      internalID: -5860737757767542933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_24
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 5060
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf7ed1c433ae4de0800000000000000
+      internalID: -1346959791550988370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_25
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 5043
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf0b9d55bd33aa90800000000000000
+      internalID: -7303926321495994454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_26
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 5043
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9ee358e2a6b0260800000000000000
+      internalID: 7064857188497287637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_27
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 5043
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795a2e06eb9d6afb0800000000000000
+      internalID: -4636779354638867049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_28
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 5026
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a71971b227a5d0800000000000000
+      internalID: -3051432076884072211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_29
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 5026
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32180bca77651af10800000000000000
+      internalID: 2279197958424527139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_30
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 5026
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c56fe6bf24beaaa0800000000000000
+      internalID: -6147778324288543291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_31
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 5017
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5995b001f10d1060800000000000000
+      internalID: 6925693936576338266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_32
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 5017
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00013f17806fa34b0800000000000000
+      internalID: -5459781082101379072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_33
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 5017
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e0d7b33cf347d60800000000000000
+      internalID: 7886998955181805144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_34
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 5026
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70ad3f5c638cdeb0800000000000000
+      internalID: -4693732210149318534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_35
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 5026
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef7744b3a02dfc0800000000000000
+      internalID: -3471701113081168222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_36
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 4991
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a69196632233c160800000000000000
+      internalID: 7044529369763649193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_37
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 4991
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187923ffd14a7ebd0800000000000000
+      internalID: -2600929811040659583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_38
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 4991
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead9d53637f52dca0800000000000000
+      internalID: -5993623204883751506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_39
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 4974
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90798887263aa2300800000000000000
+      internalID: 228174374459971337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_40
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 4974
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3287ccc4f690c02d0800000000000000
+      internalID: -3311261252389668829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_41
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 4974
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb5593b52632c80800000000000000
+      internalID: -8348721140271301068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_42
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 4957
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb39634389ae9140800000000000000
+      internalID: 4728403040022379516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_43
+      rect:
+        serializedVersion: 2
+        x: 5557
+        y: 4948
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573c8cd853af0dbf0800000000000000
+      internalID: -301466067114867851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_44
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 4957
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d92975ed2040440800000000000000
+      internalID: 4901045448461163812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_45
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 4948
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e9b28c201528600800000000000000
+      internalID: 469026383590039086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_46
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 4957
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866a988ff07960c40800000000000000
+      internalID: 5478232091592861288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_47
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 991
+        width: 8399
+        height: 3951
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d5a33a9144913d0800000000000000
+      internalID: -3235479980385608353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_48
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 4940
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be48d1f02ce52b990800000000000000
+      internalID: -7371725452481821461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_49
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2991
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82bf72a2eeaaaac0800000000000000
+      internalID: -3843067043595177329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_50
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2931
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523f9e43808a7e120800000000000000
+      internalID: 2443106076072735525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1197
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b0248cf5c3bc0a0800000000000000
+      internalID: -6860323225289487485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1128
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2bcf813c563eb30800000000000000
+      internalID: 4315404756563309231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_53
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 973
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5157963ed6ddff0800000000000000
+      internalID: -9730800690588233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_54
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 973
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd3e567b4418a620800000000000000
+      internalID: 2785498683869642229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_55
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 973
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e07b6289a50bdc0800000000000000
+      internalID: -3625298090502189560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_56
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 973
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d125edfe67aacdf0800000000000000
+      internalID: -159130741670338093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_57
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 973
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86766c5a501bcd140800000000000000
+      internalID: 4745862745155856232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_58
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 956
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110feed35431e4500800000000000000
+      internalID: 382264206485811217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_59
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 939
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12bc90f747ca1220800000000000000
+      internalID: 2457495658477433371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_60
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 939
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60c76a6141772a40800000000000000
+      internalID: 5343364008670380142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_61
+      rect:
+        serializedVersion: 2
+        x: 7231
+        y: 939
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3cd9b10e2612ec0800000000000000
+      internalID: -3593482312989424664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_62
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 939
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef31d89e88ff26b90800000000000000
+      internalID: -7249951486614105090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_63
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 905
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7c6533da6f25ca0800000000000000
+      internalID: -6029485727344572511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_64
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 922
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c7605b05c7e7d0800000000000000
+      internalID: -2889123983550594352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_65
+      rect:
+        serializedVersion: 2
+        x: 6991
+        y: 922
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f94ae3d8db2cd0800000000000000
+      internalID: -2581731556686432680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_66
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 922
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70f0b07661e92580800000000000000
+      internalID: -8851295762526441350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_67
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 896
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bef48d4ba3b6c690800000000000000
+      internalID: -7582175374310310222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_68
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 905
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dd4932699d22490800000000000000
+      internalID: -7772410768022774369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_69
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 896
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34df169f23c423e0800000000000000
+      internalID: -2079322518788778945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_70
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 870
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ec940df2d5b5ff0800000000000000
+      internalID: -46340911217914271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_71
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 870
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c609c2f971c8750800000000000000
+      internalID: 6308443150454123642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_72
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 879
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82e11fecc02eca10800000000000000
+      internalID: 1931517354744865419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_73
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 879
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e938daf3f64018c0800000000000000
+      internalID: -4030643652797122073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_74
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 870
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c0cbd143a0e3d00800000000000000
+      internalID: 954211390002564114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_75
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 870
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e332dacf41f7a0800000000000000
+      internalID: -6345202667459714350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_76
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 836
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a74f7fd4a7ad29a0800000000000000
+      internalID: -6256159980781615198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_77
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 853
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7d20a311fc9e4d0800000000000000
+      internalID: -3104722795200587867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_78
+      rect:
+        serializedVersion: 2
+        x: 5729
+        y: 853
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190c8ee2320a83b50800000000000000
+      internalID: 6573179729118544017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_79
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 853
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b33de3996790d70800000000000000
+      internalID: 9009862930087492452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_80
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 853
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68022405bf19da670800000000000000
+      internalID: 8551651776015769734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_81
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 836
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd65ef551ecc11e70800000000000000
+      internalID: 9084267191565440733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_82
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 836
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c4030c01425490800000000000000
+      internalID: -7759067688159885145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_83
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 827
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718f0152fea97dcb0800000000000000
+      internalID: -4839228922676578281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_84
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 827
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204c7b63627e1c0d0800000000000000
+      internalID: -3404185692002597886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_85
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 819
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0211105e72f198f0800000000000000
+      internalID: -535380256357281265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_86
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 802
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc299858795a5d80800000000000000
+      internalID: -8261192193040372531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_87
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 802
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c320554898c43b260800000000000000
+      internalID: 7112112390062539324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_88
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 802
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40501666c07ed4e40800000000000000
+      internalID: 5642419948608357636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_89
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 802
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0addaca39d974ce30800000000000000
+      internalID: 4522873899688058272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_90
+      rect:
+        serializedVersion: 2
+        x: 7025
+        y: 802
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45911f0f8b6354530800000000000000
+      internalID: 3838534425347430740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_91
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 785
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4084fdae8afcaf420800000000000000
+      internalID: 2664670453945026564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_92
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 759
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5958e12342557c7a0800000000000000
+      internalID: -6357018735062121067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_93
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 767
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2018501bdcbcb4f0800000000000000
+      internalID: -811566183775465425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_94
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 759
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43ae72738d322210800000000000000
+      internalID: 1306674476661777226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_95
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 759
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d886a28fce33efc0800000000000000
+      internalID: -3466858227174045481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_96
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 759
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c430c292890754050800000000000000
+      internalID: 5784153095255360332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_97
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 767
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3aed28ea82faf0800000000000000
+      internalID: -364075890056218071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_98
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 733
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d68341c350e406f0800000000000000
+      internalID: -719203390143101224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_99
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 733
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a759595c491002620800000000000000
+      internalID: 2747197511177704826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_100
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 716
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a968246e062d0fdc0800000000000000
+      internalID: -3607151987901954406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_101
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 716
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636d35fcfe06ffaa0800000000000000
+      internalID: -6125070385108756938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_102
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 716
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d487b11278f9cfa40800000000000000
+      internalID: 5403369055662602317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_103
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 716
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d3f39efc5dd5a20800000000000000
+      internalID: 3052831211375246688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_104
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 699
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099ace81d6a19a30800000000000000
+      internalID: 4220337744796883204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_105
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 699
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e233f95947614a60800000000000000
+      internalID: 7656514406245937893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_106
+      rect:
+        serializedVersion: 2
+        x: 5557
+        y: 690
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e42f12afcaeb360800000000000000
+      internalID: 7187372245641219607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_107
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 699
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd28cbe95ac4ac750800000000000000
+      internalID: 6325952900811752155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_108
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 690
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed92f4740c47ca0800000000000000
+      internalID: -6019975389384155478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_109
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 690
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da910fdf955fde7c0800000000000000
+      internalID: -4040303523820201555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_110
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 699
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b791045b3ba32d570800000000000000
+      internalID: 8489912791061240187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_111
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 664
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ab819e8c6c16190800000000000000
+      internalID: -7970871299262596473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_112
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 664
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793cdfbc3d3819210800000000000000
+      internalID: 1337995509989491607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_113
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 664
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8b4eb1f748ec2b0800000000000000
+      internalID: -5562362808292296536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_114
+      rect:
+        serializedVersion: 2
+        x: 6184
+        y: 664
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347c6869ae8dc7840800000000000000
+      internalID: 5223288169902294851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_115
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 664
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85e259d9af5119e0800000000000000
+      internalID: -1652434405168061042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_116
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 664
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a768f90216a0530800000000000000
+      internalID: 3821974026520525357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_117
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 647
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3a9f033f9248ea0800000000000000
+      internalID: -5871521889708825635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_118
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 647
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbf31b4821b37e00800000000000000
+      internalID: 1041370725469125630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_119
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 647
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18e1aaf6e9e79c90800000000000000
+      internalID: -7162999504052819940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_120
+      rect:
+        serializedVersion: 2
+        x: 7429
+        y: 647
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb42b6e8b4304110800000000000000
+      internalID: 1243051465903328226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_121
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 647
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8430d231ce38b040800000000000000
+      internalID: 4663546413644264586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_122
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 621
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7786552edb0bffdc0800000000000000
+      internalID: -3602966847280551817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_123
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 630
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0727acc1b1780560800000000000000
+      internalID: 7280193806101063438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_124
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 630
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78399a84802991e90800000000000000
+      internalID: -7054446777022704761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_125
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 630
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d95a7a1a5d27810800000000000000
+      internalID: 1761705294534384985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_126
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 630
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321c236ebc4901f40800000000000000
+      internalID: 5697217132085035299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_127
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 621
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66a30861dee03020800000000000000
+      internalID: 2319616391256450669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_128
+      rect:
+        serializedVersion: 2
+        x: 6381
+        y: 621
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5625be3db77f27b00800000000000000
+      internalID: 824993792970674789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_129
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 621
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72dd82d8dccde120800000000000000
+      internalID: 2444835404349559421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_130
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 596
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b2e59d056afe610800000000000000
+      internalID: 1652722454442683153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_131
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 596
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928bd1ff70230ed40800000000000000
+      internalID: 5611540145629935657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_132
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 578
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee49c875e95a7d80800000000000000
+      internalID: -8252184525094170908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_133
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 578
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200ed075e7140d7f0800000000000000
+      internalID: -589899540303323134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_134
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 578
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6dee22bf2df3910800000000000000
+      internalID: 1819404750545671861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_135
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 578
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f781ff864823280d0800000000000000
+      internalID: -3422117222569535361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_136
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 561
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff960214da809f7c0800000000000000
+      internalID: -4037186050745931265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_137
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 561
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdfe6fe817c50250800000000000000
+      internalID: 5910348995903815088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_138
+      rect:
+        serializedVersion: 2
+        x: 5566
+        y: 561
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9edd6a72db47e00800000000000000
+      internalID: 1041665391830362603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_139
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 553
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57a81abe7d24d630800000000000000
+      internalID: 3950832795422074719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_140
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 553
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acc967b68dd777c0800000000000000
+      internalID: -4073543767260803934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_141
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 527
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1aedb08fad397b0800000000000000
+      internalID: -5218586784306388494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_142
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 510
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bddf2b0a7f95cbe0800000000000000
+      internalID: -1457583557861974605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_143
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 510
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df083f55b0d300f0800000000000000
+      internalID: -1151847602271547434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_144
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 510
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5f3ebbec83fb6c0800000000000000
+      internalID: -4125516273081387582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_145
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 510
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebde3617edad8fc40800000000000000
+      internalID: 5546423590026735038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_146
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 510
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd3af3dceba204a0800000000000000
+      internalID: -6628546667878924804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_147
+      rect:
+        serializedVersion: 2
+        x: 6991
+        y: 510
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cef233e6630b5db0800000000000000
+      internalID: -4802240837227184445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_148
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 493
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c8a0980675f60f0800000000000000
+      internalID: -1121581710064317330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_149
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 493
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e144ff0218c670c80800000000000000
+      internalID: -8356591281702484962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_150
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 493
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f1afe8ce752e8f0800000000000000
+      internalID: -512750734044160179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_151
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 484
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa2b6ea89e50fc0800000000000000
+      internalID: -3529157950189688248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_152
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 484
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da395cb67b0fa9580800000000000000
+      internalID: -8819472249673903187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_153
+      rect:
+        serializedVersion: 2
+        x: 6106
+        y: 484
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3690cb3a4d29de0a0800000000000000
+      internalID: -6850658016182924957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_154
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 484
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f44494151284d0b0800000000000000
+      internalID: -5704791800920390409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_155
+      rect:
+        serializedVersion: 2
+        x: 7205
+        y: 484
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fce51ca4f1bbc30800000000000000
+      internalID: 4376125868852826014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_156
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 493
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c19d2456b9c2e1a0800000000000000
+      internalID: -6781636303933042238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_157
+      rect:
+        serializedVersion: 2
+        x: 8467
+        y: 493
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0694d66d9b6ef50800000000000000
+      internalID: 6910415008854270148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_158
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 458
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e000c10ad5fa4f2a0800000000000000
+      internalID: -6704541128594817010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_159
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 458
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401c1bec3260add00800000000000000
+      internalID: 998117018277363972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_160
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 458
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdc695247d4e3470800000000000000
+      internalID: 8376217518197886461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_161
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 441
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1e9a70a6ec3e5d0800000000000000
+      internalID: -3034354769127153248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_162
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 441
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a4acddc4ce5cd40800000000000000
+      internalID: 5604145126215142017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_163
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 441
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07901044cb805f690800000000000000
+      internalID: -7569133994038458000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_164
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 424
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159d1711357aba230800000000000000
+      internalID: 3651195898130717009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_165
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 424
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15067800e3b12590800000000000000
+      internalID: -7700676113030839014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_166
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 415
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ff9bdb3b576140800000000000000
+      internalID: 4712835847712404227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_167
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 424
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f4bcda053bb9f70800000000000000
+      internalID: 9195140223301537629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_168
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 415
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b0d322ed2925810800000000000000
+      internalID: 1752624687755365200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_169
+      rect:
+        serializedVersion: 2
+        x: 8648
+        y: 415
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d10790aaec787e0800000000000000
+      internalID: -1763213499394155151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_170
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 398
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68268f653ed535a70800000000000000
+      internalID: 8814492126692270726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_171
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 390
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3e5602032a08fc0800000000000000
+      internalID: -3494614983253826610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_172
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 390
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a012f4b0225add500800000000000000
+      internalID: 422675505679900938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_173
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 390
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5656d8b4bc77200800000000000000
+      internalID: 177834235659642283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_174
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 372
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e855f96008562c0800000000000000
+      internalID: -4439001091772412280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_175
+      rect:
+        serializedVersion: 2
+        x: 5171
+        y: 372
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a796d73663d58c6f0800000000000000
+      internalID: -664178456858367622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_176
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 372
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea20604be0455eb0800000000000000
+      internalID: -4731804454341301525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_177
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 372
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1c0fd0ca00137b0800000000000000
+      internalID: -5246411351941660202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_178
+      rect:
+        serializedVersion: 2
+        x: 7119
+        y: 372
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59edd77e25e2a9f60800000000000000
+      internalID: 8041791018229423765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_179
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 355
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b267abc64e7432730800000000000000
+      internalID: 3973098342673184299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_180
+      rect:
+        serializedVersion: 2
+        x: 5566
+        y: 355
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf36a422eecd8eb0800000000000000
+      internalID: -4715885764114235467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_181
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 347
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2169ce110fdc9ad30800000000000000
+      internalID: 4443308938354267666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_182
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 347
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35b509d4151ab190800000000000000
+      internalID: -7946015413257259715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_183
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 355
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621f239afd1f573d0800000000000000
+      internalID: -3209393216512921306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_184
+      rect:
+        serializedVersion: 2
+        x: 8467
+        y: 355
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aa75663fb85a590800000000000000
+      internalID: -7663565313390695787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_185
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 338
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e52e7bab4fbfe9b0800000000000000
+      internalID: -5048606325538413083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_186
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 321
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78695413503cb3290800000000000000
+      internalID: -7909513893477247353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_187
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 321
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4770e9302da63e380800000000000000
+      internalID: -8943186984791308428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_188
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 321
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776f05d6e594d1140800000000000000
+      internalID: 4691987056699700855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_189
+      rect:
+        serializedVersion: 2
+        x: 5171
+        y: 304
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c0aa9760fdd5f20800000000000000
+      internalID: 3413129311520689256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_190
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 304
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff32c5440573a260800000000000000
+      internalID: 7107653298131451895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_191
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eecd36249106e40800000000000000
+      internalID: 5647541705656561281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_192
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099629fb8f2ca9510800000000000000
+      internalID: 1556770994831649168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_193
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 278
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4adbc4591a0b6db0800000000000000
+      internalID: -4797729874120025523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_194
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 278
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e6888043a578530800000000000000
+      internalID: 3857150785394077329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_195
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 261
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b7ab86c655b0e30800000000000000
+      internalID: 4470760979197229931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_196
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 269
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccc5fb2209f97ac0800000000000000
+      internalID: -3856777818143339322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_197
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 252
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a69526946b9a5b80800000000000000
+      internalID: -8405234898215528792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_198
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 252
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c826c0dfd4db89eb0800000000000000
+      internalID: -4712808867387645300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_199
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 252
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff12cec657b72edd0800000000000000
+      internalID: -2458266702322064897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_200
+      rect:
+        serializedVersion: 2
+        x: 5171
+        y: 235
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab29eb36166dd730800000000000000
+      internalID: 4025485887619541921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_201
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 235
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e1f7e308b51400800000000000000
+      internalID: 294343677578436914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_202
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 235
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb68aca0900bb640800000000000000
+      internalID: 5096668024671857608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_203
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 218
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2518f0e7237a65ba0800000000000000
+      internalID: -6100504809921609390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_204
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 218
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047f3b3e6730360b0800000000000000
+      internalID: -5736737691178633408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_205
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 218
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f373cd68c03dd370800000000000000
+      internalID: 8348882921607885808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_206
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 218
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2013a9200ff2f30800000000000000
+      internalID: 4553121642262364886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_207
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 218
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0381590b19f77fb00800000000000000
+      internalID: 862298117374285872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_208
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 209
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72f53a28475f6d00800000000000000
+      internalID: 968088412365386367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_209
+      rect:
+        serializedVersion: 2
+        x: 6587
+        y: 209
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bc3866fdb454f80800000000000000
+      internalID: -8123002930023118059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_210
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 184
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60291f422c1adb50800000000000000
+      internalID: 6618633536055877738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_211
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6261cc3ea0612d0800000000000000
+      internalID: -3308444902759192883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_212
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 166
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab9dd6ced3275ea0800000000000000
+      internalID: -5884194948410139743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_213
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef317f27ef4a43aa0800000000000000
+      internalID: -6182134975715404802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_214
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 184
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304678ca644e7f7a0800000000000000
+      internalID: -6343350557934656509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_215
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 166
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2480568305d5400800000000000000
+      internalID: 314495752129233576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_216
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 149
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75170a48435a9fd90800000000000000
+      internalID: -7063432895571922601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_217
+      rect:
+        serializedVersion: 2
+        x: 5566
+        y: 149
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307c7509f2c9646e0800000000000000
+      internalID: -1853622468517312765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_218
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 141
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb311a5265bcbac0800000000000000
+      internalID: -3837993348404003911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_219
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 141
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5634414cd9f6c7300800000000000000
+      internalID: 251198402616116069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_220
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 141
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3c8a3ccff3cfaf0800000000000000
+      internalID: -361343515249556526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_221
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 149
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf8e051fd7b04420800000000000000
+      internalID: 2612289952633753542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_222
+      rect:
+        serializedVersion: 2
+        x: 5995
+        y: 123
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d133ffdb10f2a0080800000000000000
+      internalID: -9220505602558577891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_223
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 132
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c8b44c5dd07ad60800000000000000
+      internalID: 7901299283017305147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_224
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 115
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3185a25a7832cde80800000000000000
+      internalID: -8152602159948867565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_225
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 115
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d082c9aaae26d10800000000000000
+      internalID: 2117512793302764814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_226
+      rect:
+        serializedVersion: 2
+        x: 3874
+        y: 115
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fc9b20ca9705d50800000000000000
+      internalID: 6724008023351218007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_227
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128021159c7d3f4f0800000000000000
+      internalID: -796055449465911263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_228
+      rect:
+        serializedVersion: 2
+        x: 6347
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121c34f7d9ffea660800000000000000
+      internalID: 7399132289726398753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_229
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b8fd28770d2f210800000000000000
+      internalID: 1365382848762055526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_230
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 115
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e97d94053a6ddc0800000000000000
+      internalID: -3614522085686665667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_231
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 98
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102e0c139e8432650800000000000000
+      internalID: 6206884877845979649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_232
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 98
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d087347406afbd0800000000000000
+      internalID: -2595656376034783905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_233
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 98
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80636e7b61436fc0800000000000000
+      internalID: -3502884155226365814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_234
+      rect:
+        serializedVersion: 2
+        x: 6991
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649016c517992afc0800000000000000
+      internalID: -3485054449471125178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_235
+      rect:
+        serializedVersion: 2
+        x: 7643
+        y: 98
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b39cb99c42f1930800000000000000
+      internalID: 4116049032760605566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_236
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88884dd1086f37950800000000000000
+      internalID: 6445766521814026376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_237
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4465418406a1f820800000000000000
+      internalID: 2950321769183274060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_238
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3dab676ee52de90800000000000000
+      internalID: -7002430126680255531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_239
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 72
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd04d6947c09dc600800000000000000
+      internalID: 490207120058040539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_240
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 72
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5179f45eaa6ee920800000000000000
+      internalID: 3021469696994668892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_241
+      rect:
+        serializedVersion: 2
+        x: 7231
+        y: 81
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa00921dba0b9690800000000000000
+      internalID: -7594464539453682945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_242
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 55
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0acf2246a573f5f0800000000000000
+      internalID: -724105758141068785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_243
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 63
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7fb9303d592e560800000000000000
+      internalID: 7341595076098521038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_244
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 46
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cac2c51a52d8930800000000000000
+      internalID: 4147012206844488769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_245
+      rect:
+        serializedVersion: 2
+        x: 6596
+        y: 46
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88801cdb06b49790800000000000000
+      internalID: -7524188915376289652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_246
+      rect:
+        serializedVersion: 2
+        x: 7420
+        y: 46
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ba2e8067f70acf0800000000000000
+      internalID: -243054234946065651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_247
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf762b9710c2faf60800000000000000
+      internalID: 8047699443982690299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_248
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2773bccb24168a0800000000000000
+      internalID: -6313691823966031161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_249
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b6e70f257818cd0800000000000000
+      internalID: -2557614323077846149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_250
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 29
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf414f178f9f8550800000000000000
+      internalID: 6165321817587273648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_251
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 29
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2160d81ba578a7290800000000000000
+      internalID: -7891846573417757166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_252
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0f9155161972af0800000000000000
+      internalID: -421208192910233390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_253
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3440ea4544562a0800000000000000
+      internalID: -6744909736429993012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_254
+      rect:
+        serializedVersion: 2
+        x: 5763
+        y: 12
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf90297fd5342e340800000000000000
+      internalID: 4891546216142342652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_255
+      rect:
+        serializedVersion: 2
+        x: 6579
+        y: 3
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e26cff4421e8c200800000000000000
+      internalID: 200657729494999785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_256
+      rect:
+        serializedVersion: 2
+        x: 7411
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f47a2ec718f80950800000000000000
+      internalID: 6415650450316096756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_257
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 12
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91006df457df9180800000000000000
+      internalID: -9106323161491701349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_dragon_shadow_02_258
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5101a9c631e2437e0800000000000000
+      internalID: -1786752491197951979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      char_dragon_shadow_02_0: 4237400203377600825
+      char_dragon_shadow_02_1: 8987721032884225064
+      char_dragon_shadow_02_10: 1287064202798983145
+      char_dragon_shadow_02_100: -3607151987901954406
+      char_dragon_shadow_02_101: -6125070385108756938
+      char_dragon_shadow_02_102: 5403369055662602317
+      char_dragon_shadow_02_103: 3052831211375246688
+      char_dragon_shadow_02_104: 4220337744796883204
+      char_dragon_shadow_02_105: 7656514406245937893
+      char_dragon_shadow_02_106: 7187372245641219607
+      char_dragon_shadow_02_107: 6325952900811752155
+      char_dragon_shadow_02_108: -6019975389384155478
+      char_dragon_shadow_02_109: -4040303523820201555
+      char_dragon_shadow_02_11: 9078946738123710622
+      char_dragon_shadow_02_110: 8489912791061240187
+      char_dragon_shadow_02_111: -7970871299262596473
+      char_dragon_shadow_02_112: 1337995509989491607
+      char_dragon_shadow_02_113: -5562362808292296536
+      char_dragon_shadow_02_114: 5223288169902294851
+      char_dragon_shadow_02_115: -1652434405168061042
+      char_dragon_shadow_02_116: 3821974026520525357
+      char_dragon_shadow_02_117: -5871521889708825635
+      char_dragon_shadow_02_118: 1041370725469125630
+      char_dragon_shadow_02_119: -7162999504052819940
+      char_dragon_shadow_02_12: -8747114694260213439
+      char_dragon_shadow_02_120: 1243051465903328226
+      char_dragon_shadow_02_121: 4663546413644264586
+      char_dragon_shadow_02_122: -3602966847280551817
+      char_dragon_shadow_02_123: 7280193806101063438
+      char_dragon_shadow_02_124: -7054446777022704761
+      char_dragon_shadow_02_125: 1761705294534384985
+      char_dragon_shadow_02_126: 5697217132085035299
+      char_dragon_shadow_02_127: 2319616391256450669
+      char_dragon_shadow_02_128: 824993792970674789
+      char_dragon_shadow_02_129: 2444835404349559421
+      char_dragon_shadow_02_13: -548687421978169406
+      char_dragon_shadow_02_130: 1652722454442683153
+      char_dragon_shadow_02_131: 5611540145629935657
+      char_dragon_shadow_02_132: -8252184525094170908
+      char_dragon_shadow_02_133: -589899540303323134
+      char_dragon_shadow_02_134: 1819404750545671861
+      char_dragon_shadow_02_135: -3422117222569535361
+      char_dragon_shadow_02_136: -4037186050745931265
+      char_dragon_shadow_02_137: 5910348995903815088
+      char_dragon_shadow_02_138: 1041665391830362603
+      char_dragon_shadow_02_139: 3950832795422074719
+      char_dragon_shadow_02_14: -4796578474839451665
+      char_dragon_shadow_02_140: -4073543767260803934
+      char_dragon_shadow_02_141: -5218586784306388494
+      char_dragon_shadow_02_142: -1457583557861974605
+      char_dragon_shadow_02_143: -1151847602271547434
+      char_dragon_shadow_02_144: -4125516273081387582
+      char_dragon_shadow_02_145: 5546423590026735038
+      char_dragon_shadow_02_146: -6628546667878924804
+      char_dragon_shadow_02_147: -4802240837227184445
+      char_dragon_shadow_02_148: -1121581710064317330
+      char_dragon_shadow_02_149: -8356591281702484962
+      char_dragon_shadow_02_15: 2255393583966068188
+      char_dragon_shadow_02_150: -512750734044160179
+      char_dragon_shadow_02_151: -3529157950189688248
+      char_dragon_shadow_02_152: -8819472249673903187
+      char_dragon_shadow_02_153: -6850658016182924957
+      char_dragon_shadow_02_154: -5704791800920390409
+      char_dragon_shadow_02_155: 4376125868852826014
+      char_dragon_shadow_02_156: -6781636303933042238
+      char_dragon_shadow_02_157: 6910415008854270148
+      char_dragon_shadow_02_158: -6704541128594817010
+      char_dragon_shadow_02_159: 998117018277363972
+      char_dragon_shadow_02_16: -6226345565282400817
+      char_dragon_shadow_02_160: 8376217518197886461
+      char_dragon_shadow_02_161: -3034354769127153248
+      char_dragon_shadow_02_162: 5604145126215142017
+      char_dragon_shadow_02_163: -7569133994038458000
+      char_dragon_shadow_02_164: 3651195898130717009
+      char_dragon_shadow_02_165: -7700676113030839014
+      char_dragon_shadow_02_166: 4712835847712404227
+      char_dragon_shadow_02_167: 9195140223301537629
+      char_dragon_shadow_02_168: 1752624687755365200
+      char_dragon_shadow_02_169: -1763213499394155151
+      char_dragon_shadow_02_17: 4268482371832599846
+      char_dragon_shadow_02_170: 8814492126692270726
+      char_dragon_shadow_02_171: -3494614983253826610
+      char_dragon_shadow_02_172: 422675505679900938
+      char_dragon_shadow_02_173: 177834235659642283
+      char_dragon_shadow_02_174: -4439001091772412280
+      char_dragon_shadow_02_175: -664178456858367622
+      char_dragon_shadow_02_176: -4731804454341301525
+      char_dragon_shadow_02_177: -5246411351941660202
+      char_dragon_shadow_02_178: 8041791018229423765
+      char_dragon_shadow_02_179: 3973098342673184299
+      char_dragon_shadow_02_18: 5583973228766497044
+      char_dragon_shadow_02_180: -4715885764114235467
+      char_dragon_shadow_02_181: 4443308938354267666
+      char_dragon_shadow_02_182: -7946015413257259715
+      char_dragon_shadow_02_183: -3209393216512921306
+      char_dragon_shadow_02_184: -7663565313390695787
+      char_dragon_shadow_02_185: -5048606325538413083
+      char_dragon_shadow_02_186: -7909513893477247353
+      char_dragon_shadow_02_187: -8943186984791308428
+      char_dragon_shadow_02_188: 4691987056699700855
+      char_dragon_shadow_02_189: 3413129311520689256
+      char_dragon_shadow_02_19: -7067086404514146280
+      char_dragon_shadow_02_190: 7107653298131451895
+      char_dragon_shadow_02_191: 5647541705656561281
+      char_dragon_shadow_02_192: 1556770994831649168
+      char_dragon_shadow_02_193: -4797729874120025523
+      char_dragon_shadow_02_194: 3857150785394077329
+      char_dragon_shadow_02_195: 4470760979197229931
+      char_dragon_shadow_02_196: -3856777818143339322
+      char_dragon_shadow_02_197: -8405234898215528792
+      char_dragon_shadow_02_198: -4712808867387645300
+      char_dragon_shadow_02_199: -2458266702322064897
+      char_dragon_shadow_02_2: -8248386090597425212
+      char_dragon_shadow_02_20: -6770046899481531017
+      char_dragon_shadow_02_200: 4025485887619541921
+      char_dragon_shadow_02_201: 294343677578436914
+      char_dragon_shadow_02_202: 5096668024671857608
+      char_dragon_shadow_02_203: -6100504809921609390
+      char_dragon_shadow_02_204: -5736737691178633408
+      char_dragon_shadow_02_205: 8348882921607885808
+      char_dragon_shadow_02_206: 4553121642262364886
+      char_dragon_shadow_02_207: 862298117374285872
+      char_dragon_shadow_02_208: 968088412365386367
+      char_dragon_shadow_02_209: -8123002930023118059
+      char_dragon_shadow_02_21: -4764802997593761269
+      char_dragon_shadow_02_210: 6618633536055877738
+      char_dragon_shadow_02_211: -3308444902759192883
+      char_dragon_shadow_02_212: -5884194948410139743
+      char_dragon_shadow_02_213: -6182134975715404802
+      char_dragon_shadow_02_214: -6343350557934656509
+      char_dragon_shadow_02_215: 314495752129233576
+      char_dragon_shadow_02_216: -7063432895571922601
+      char_dragon_shadow_02_217: -1853622468517312765
+      char_dragon_shadow_02_218: -3837993348404003911
+      char_dragon_shadow_02_219: 251198402616116069
+      char_dragon_shadow_02_22: -672184214126567095
+      char_dragon_shadow_02_220: -361343515249556526
+      char_dragon_shadow_02_221: 2612289952633753542
+      char_dragon_shadow_02_222: -9220505602558577891
+      char_dragon_shadow_02_223: 7901299283017305147
+      char_dragon_shadow_02_224: -8152602159948867565
+      char_dragon_shadow_02_225: 2117512793302764814
+      char_dragon_shadow_02_226: 6724008023351218007
+      char_dragon_shadow_02_227: -796055449465911263
+      char_dragon_shadow_02_228: 7399132289726398753
+      char_dragon_shadow_02_229: 1365382848762055526
+      char_dragon_shadow_02_23: -5860737757767542933
+      char_dragon_shadow_02_230: -3614522085686665667
+      char_dragon_shadow_02_231: 6206884877845979649
+      char_dragon_shadow_02_232: -2595656376034783905
+      char_dragon_shadow_02_233: -3502884155226365814
+      char_dragon_shadow_02_234: -3485054449471125178
+      char_dragon_shadow_02_235: 4116049032760605566
+      char_dragon_shadow_02_236: 6445766521814026376
+      char_dragon_shadow_02_237: 2950321769183274060
+      char_dragon_shadow_02_238: -7002430126680255531
+      char_dragon_shadow_02_239: 490207120058040539
+      char_dragon_shadow_02_24: -1346959791550988370
+      char_dragon_shadow_02_240: 3021469696994668892
+      char_dragon_shadow_02_241: -7594464539453682945
+      char_dragon_shadow_02_242: -724105758141068785
+      char_dragon_shadow_02_243: 7341595076098521038
+      char_dragon_shadow_02_244: 4147012206844488769
+      char_dragon_shadow_02_245: -7524188915376289652
+      char_dragon_shadow_02_246: -243054234946065651
+      char_dragon_shadow_02_247: 8047699443982690299
+      char_dragon_shadow_02_248: -6313691823966031161
+      char_dragon_shadow_02_249: -2557614323077846149
+      char_dragon_shadow_02_25: -7303926321495994454
+      char_dragon_shadow_02_250: 6165321817587273648
+      char_dragon_shadow_02_251: -7891846573417757166
+      char_dragon_shadow_02_252: -421208192910233390
+      char_dragon_shadow_02_253: -6744909736429993012
+      char_dragon_shadow_02_254: 4891546216142342652
+      char_dragon_shadow_02_255: 200657729494999785
+      char_dragon_shadow_02_256: 6415650450316096756
+      char_dragon_shadow_02_257: -9106323161491701349
+      char_dragon_shadow_02_258: -1786752491197951979
+      char_dragon_shadow_02_26: 7064857188497287637
+      char_dragon_shadow_02_27: -4636779354638867049
+      char_dragon_shadow_02_28: -3051432076884072211
+      char_dragon_shadow_02_29: 2279197958424527139
+      char_dragon_shadow_02_3: 1016432158032586415
+      char_dragon_shadow_02_30: -6147778324288543291
+      char_dragon_shadow_02_31: 6925693936576338266
+      char_dragon_shadow_02_32: -5459781082101379072
+      char_dragon_shadow_02_33: 7886998955181805144
+      char_dragon_shadow_02_34: -4693732210149318534
+      char_dragon_shadow_02_35: -3471701113081168222
+      char_dragon_shadow_02_36: 7044529369763649193
+      char_dragon_shadow_02_37: -2600929811040659583
+      char_dragon_shadow_02_38: -5993623204883751506
+      char_dragon_shadow_02_39: 228174374459971337
+      char_dragon_shadow_02_4: -513879118400387421
+      char_dragon_shadow_02_40: -3311261252389668829
+      char_dragon_shadow_02_41: -8348721140271301068
+      char_dragon_shadow_02_42: 4728403040022379516
+      char_dragon_shadow_02_43: -301466067114867851
+      char_dragon_shadow_02_44: 4901045448461163812
+      char_dragon_shadow_02_45: 469026383590039086
+      char_dragon_shadow_02_46: 5478232091592861288
+      char_dragon_shadow_02_47: -3235479980385608353
+      char_dragon_shadow_02_48: -7371725452481821461
+      char_dragon_shadow_02_49: -3843067043595177329
+      char_dragon_shadow_02_5: 4482943893517827106
+      char_dragon_shadow_02_50: 2443106076072735525
+      char_dragon_shadow_02_51: -6860323225289487485
+      char_dragon_shadow_02_52: 4315404756563309231
+      char_dragon_shadow_02_53: -9730800690588233
+      char_dragon_shadow_02_54: 2785498683869642229
+      char_dragon_shadow_02_55: -3625298090502189560
+      char_dragon_shadow_02_56: -159130741670338093
+      char_dragon_shadow_02_57: 4745862745155856232
+      char_dragon_shadow_02_58: 382264206485811217
+      char_dragon_shadow_02_59: 2457495658477433371
+      char_dragon_shadow_02_6: 147777356317847658
+      char_dragon_shadow_02_60: 5343364008670380142
+      char_dragon_shadow_02_61: -3593482312989424664
+      char_dragon_shadow_02_62: -7249951486614105090
+      char_dragon_shadow_02_63: -6029485727344572511
+      char_dragon_shadow_02_64: -2889123983550594352
+      char_dragon_shadow_02_65: -2581731556686432680
+      char_dragon_shadow_02_66: -8851295762526441350
+      char_dragon_shadow_02_67: -7582175374310310222
+      char_dragon_shadow_02_68: -7772410768022774369
+      char_dragon_shadow_02_69: -2079322518788778945
+      char_dragon_shadow_02_7: -1338145333513143756
+      char_dragon_shadow_02_70: -46340911217914271
+      char_dragon_shadow_02_71: 6308443150454123642
+      char_dragon_shadow_02_72: 1931517354744865419
+      char_dragon_shadow_02_73: -4030643652797122073
+      char_dragon_shadow_02_74: 954211390002564114
+      char_dragon_shadow_02_75: -6345202667459714350
+      char_dragon_shadow_02_76: -6256159980781615198
+      char_dragon_shadow_02_77: -3104722795200587867
+      char_dragon_shadow_02_78: 6573179729118544017
+      char_dragon_shadow_02_79: 9009862930087492452
+      char_dragon_shadow_02_8: -3788341619567877794
+      char_dragon_shadow_02_80: 8551651776015769734
+      char_dragon_shadow_02_81: 9084267191565440733
+      char_dragon_shadow_02_82: -7759067688159885145
+      char_dragon_shadow_02_83: -4839228922676578281
+      char_dragon_shadow_02_84: -3404185692002597886
+      char_dragon_shadow_02_85: -535380256357281265
+      char_dragon_shadow_02_86: -8261192193040372531
+      char_dragon_shadow_02_87: 7112112390062539324
+      char_dragon_shadow_02_88: 5642419948608357636
+      char_dragon_shadow_02_89: 4522873899688058272
+      char_dragon_shadow_02_9: 1530350691763258091
+      char_dragon_shadow_02_90: 3838534425347430740
+      char_dragon_shadow_02_91: 2664670453945026564
+      char_dragon_shadow_02_92: -6357018735062121067
+      char_dragon_shadow_02_93: -811566183775465425
+      char_dragon_shadow_02_94: 1306674476661777226
+      char_dragon_shadow_02_95: -3466858227174045481
+      char_dragon_shadow_02_96: 5784153095255360332
+      char_dragon_shadow_02_97: -364075890056218071
+      char_dragon_shadow_02_98: -719203390143101224
+      char_dragon_shadow_02_99: 2747197511177704826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

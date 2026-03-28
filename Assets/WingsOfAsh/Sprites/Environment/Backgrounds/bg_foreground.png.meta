@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 8b14c2eab8c5cac4fa8ebe7a4b57417d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5324237300653438884
+    second: bg_foreground_0
+  - first:
+      213: 962278421510260711
+    second: bg_foreground_1
+  - first:
+      213: -6586301066493892078
+    second: bg_foreground_2
+  - first:
+      213: 4678935691445431775
+    second: bg_foreground_3
+  - first:
+      213: 285480516365435294
+    second: bg_foreground_4
+  - first:
+      213: -3293895427234104662
+    second: bg_foreground_5
+  - first:
+      213: 5963814360207803605
+    second: bg_foreground_6
+  - first:
+      213: 4953756466106921376
+    second: bg_foreground_7
+  - first:
+      213: -5559775197761520586
+    second: bg_foreground_8
+  - first:
+      213: -5619314431501913532
+    second: bg_foreground_9
+  - first:
+      213: -2726359050256131098
+    second: bg_foreground_10
+  - first:
+      213: -1633310224937899515
+    second: bg_foreground_11
+  - first:
+      213: 181531129982247257
+    second: bg_foreground_12
+  - first:
+      213: -5216562803941820941
+    second: bg_foreground_13
+  - first:
+      213: -2228035897007542973
+    second: bg_foreground_14
+  - first:
+      213: 5781172437814344469
+    second: bg_foreground_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_foreground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19496
+        height: 4267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7355dad9d73e940800000000000000
+      internalID: 5324237300653438884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_1
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 3369
+        width: 1625
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e784214023ba5d00800000000000000
+      internalID: 962278421510260711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_2
+      rect:
+        serializedVersion: 2
+        x: 8005
+        y: 3503
+        width: 998
+        height: 571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aead36312c894a0800000000000000
+      internalID: -6586301066493892078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_3
+      rect:
+        serializedVersion: 2
+        x: 12827
+        y: 3259
+        width: 1109
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd6087a83beee040800000000000000
+      internalID: 4678935691445431775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_4
+      rect:
+        serializedVersion: 2
+        x: 17006
+        y: 3260
+        width: 1183
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91c140640b36f300800000000000000
+      internalID: 285480516365435294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_5
+      rect:
+        serializedVersion: 2
+        x: 5573
+        y: 2399
+        width: 1356
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa7d6c8f8bb942d0800000000000000
+      internalID: -3293895427234104662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_6
+      rect:
+        serializedVersion: 2
+        x: 10475
+        y: 2570
+        width: 934
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d44f8e1099b3c250800000000000000
+      internalID: 5963814360207803605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_7
+      rect:
+        serializedVersion: 2
+        x: 14633
+        y: 2232
+        width: 1998
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1f81282474fb440800000000000000
+      internalID: 4953756466106921376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1959
+        width: 2059
+        height: 571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cb5622ae5b7d2b0800000000000000
+      internalID: -5559775197761520586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 1088
+        height: 1230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4423a150c4f2402b0800000000000000
+      internalID: -5619314431501913532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_10
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 0
+        width: 974
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebdf4f73e60a2ad0800000000000000
+      internalID: -2726359050256131098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_11
+      rect:
+        serializedVersion: 2
+        x: 6788
+        y: 0
+        width: 1389
+        height: 1606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a209a01015559e0800000000000000
+      internalID: -1633310224937899515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_12
+      rect:
+        serializedVersion: 2
+        x: 9368
+        y: 0
+        width: 744
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9516446d99de48200800000000000000
+      internalID: 181531129982247257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_13
+      rect:
+        serializedVersion: 2
+        x: 11783
+        y: 0
+        width: 1470
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f53882b4cb0b97b0800000000000000
+      internalID: -5216562803941820941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_14
+      rect:
+        serializedVersion: 2
+        x: 14038
+        y: 0
+        width: 591
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34deb04082d6411e0800000000000000
+      internalID: -2228035897007542973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_foreground_15
+      rect:
+        serializedVersion: 2
+        x: 16559
+        y: 0
+        width: 1640
+        height: 1571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bf335c3b9da3050800000000000000
+      internalID: 5781172437814344469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f9c37d5675cfb9a44b40beefae2b38a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_foreground_0: 5324237300653438884
+      bg_foreground_1: 962278421510260711
+      bg_foreground_10: -2726359050256131098
+      bg_foreground_11: -1633310224937899515
+      bg_foreground_12: 181531129982247257
+      bg_foreground_13: -5216562803941820941
+      bg_foreground_14: -2228035897007542973
+      bg_foreground_15: 5781172437814344469
+      bg_foreground_2: -6586301066493892078
+      bg_foreground_3: 4678935691445431775
+      bg_foreground_4: 285480516365435294
+      bg_foreground_5: -3293895427234104662
+      bg_foreground_6: 5963814360207803605
+      bg_foreground_7: 4953756466106921376
+      bg_foreground_8: -5559775197761520586
+      bg_foreground_9: -5619314431501913532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
